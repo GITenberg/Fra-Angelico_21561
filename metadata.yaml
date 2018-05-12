@@ -1,0 +1,36 @@
+_repo: Fra-Angelico_21561
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Scott, Leader
+    alias: Baxter, Lucy
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '2384'
+    url: http://www.gutenberg.org/2009/agents/2384
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Baxter
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Supino, I. B. (Igino Benvenuto)
+    alias: Supino, Igino Benvenuto
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '24784'
+    url: http://www.gutenberg.org/2009/agents/24784
+description: ''
+gutenberg_issued: '2007-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Angelico, fra, approximately 1400-1455'
+title: Fra Angelico
+url: http://www.gutenberg.org/ebooks/21561
